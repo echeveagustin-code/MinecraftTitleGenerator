@@ -1,4 +1,27 @@
 {
+  "backrooms_wallpaper_classic": {
+    "category": "Backrooms Wallpaper",
+    "name": "Classic",
+    "author": "Persa Studio",
+    "path": "backrooms",
+    "variants": {
+      "backrooms_wallpaper_damp": {
+        "name": "Damp"
+      },
+      "backrooms_wallpaper_faded": {
+        "name": "Faded"
+      },
+      "backrooms_wallpaper_grimy": {
+        "name": "Grimy"
+      },
+      "backrooms_wallpaper_green_decay": {
+        "name": "Green Decay"
+      },
+      "backrooms_wallpaper_dirty_ochre": {
+        "name": "Dirty Ochre"
+      }
+    }
+  },
   "cobblestone": {
     "category": "Stone",
     "path": "minecraft/stone",
