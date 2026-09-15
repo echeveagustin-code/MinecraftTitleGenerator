@@ -1,5 +1,25 @@
 {
   "textures": {
+    "blackout_fluorescent_decay": {
+      "category": "BLACKOUT",
+      "name": "Fluorescent Decay",
+      "author": "Persa Studio"
+    },
+    "blackout_wallpaper_rot": {
+      "category": "BLACKOUT",
+      "name": "Wallpaper Rot",
+      "author": "Persa Studio"
+    },
+    "blackout_moulded_concrete": {
+      "category": "BLACKOUT",
+      "name": "Moulded Concrete",
+      "author": "Persa Studio"
+    },
+    "blackout_dirty_insulation": {
+      "category": "BLACKOUT",
+      "name": "Dirty Insulation",
+      "author": "Persa Studio"
+    },
     "flat": {
       "author": "Ewan Howell"
     },
